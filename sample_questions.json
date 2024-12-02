@@ -1,0 +1,170 @@
+{
+  "gk": [
+    {
+      "question": "What is the capital of France ?",
+      "options": [
+        "A. Berlin",
+        "B. Madrid",
+        "C. Paris",
+        "D. Rome"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "Which planet is known as the red planet?",
+      "options": [
+        "A. Earth",
+        "B. Mars",
+        "C. Jupiter",
+        "D. Saturn"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "What is the capital of India ?",
+      "options": [
+        "A. Delhi",
+        "B. Paris",
+        "C. Kanpur",
+        "D. Rome"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "What is the largest ocean on Earth ?",
+      "options": [
+        "A. Atlantic",
+        "B. Indian",
+        "C. Arctic",
+        "D. Pacific"
+      ],
+      "answer": "D"
+    }
+  ],
+  "science": [
+    {
+      "question": "What is the SI unit of force?",
+      "options": [
+        "A. Watt",
+        "B. Joule",
+        "C. Newton",
+        "D. Pascal"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "Which of these is not a type of electromagnetic radiation?",
+      "options": [
+        "A. X-rays",
+        "B. Gamma rays",
+        "C. Sound waves",
+        "D. Ultraviolet rays"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "Which of these is not a fundamental force of nature?",
+      "options": [
+        "A. Gravity",
+        "B. Electromagnetic force",
+        "C. Strong nuclear force",
+        "D. Centrifugal force"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "Which of these is a vector quantity?",
+      "options": [
+        "A. Velocity",
+        "B. Time",
+        "C. Temperature",
+        "D. Mass"
+      ],
+      "answer": "A"
+    }
+  ],
+  "history": [
+    {
+      "question": "Who wrote Bande Mataram?",
+      "options": [
+        "A. Sharat chandra chattopadhyay",
+        "B. Rabindranath Tagore",
+        "C. Bankimchandra Chatterjee",
+        "D. None"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "When was Indian National song sung for the first time?",
+      "options": [
+        "A. 1896 session of the Indian National Congress",
+        "B. 1857 revolt",
+        "C. 1919 - Jallianwala Bagh Massacre",
+        "D. None"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "Where is situated the battlefield of Plessey?",
+      "options": [
+        "A. Punjab",
+        "B. Haryana",
+        "C. West Bengal",
+        "D. Karnataka"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "In the third battle of Panipat, who defeated Marathas?",
+      "options": [
+        "A. Punjab",
+        "B. Haryana",
+        "C. West Bengal",
+        "D. Karnataka"
+      ],
+      "answer": "C"
+    }
+  ],
+  "geography": [
+    {
+      "question": "What is the tallest mountain in the world, measured from base to peak?",
+      "options": [
+        "A. Mount Everest",
+        "B. Mauna Kea",
+        "C. Mount Chimborazo",
+        "D. Denali "
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "The Grand Canyon, a natural wonder carved by the Colorado River, is located in which US state?",
+      "options": [
+        "A. Arizona",
+        "B. California",
+        "C. Colorado",
+        "D. Nevada"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "Which of the following seas is the world's smallest and shallowest?",
+      "options": [
+        "A. Arctic Ocean",
+        "B. Baltic Sea",
+        "C. Mediterranean Sea",
+        "D. Sea of Azov"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "The iconic White House serves as the official residence of the President of the United States. In which city is it located?",
+      "options": [
+        "A. New York City",
+        "B. Los Angeles",
+        "C. Chicago",
+        "D. Washington, D.C."
+      ],
+      "answer": "D"
+    }
+  ]
+}
