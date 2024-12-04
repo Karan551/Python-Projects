@@ -3,8 +3,6 @@ import os
 BASE_DIR = "./my_files"
 
 
-# TODO -> add search functionality and add new content in existing file.
-
 def get_file_path(filename: str):
     return BASE_DIR + "/" + filename
 
