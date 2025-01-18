@@ -1,4 +1,4 @@
-# 🚀 Exciting Python Projects I've Developed! 🚀
+# 🚀 Exciting Python Projects I've Developed! 
 
 Over the last few months, I’ve been working on some interesting Python projects that span a variety of applications—from
 simple games to useful utilities. These projects have helped me solidify my understanding of programming, especially the
